@@ -11,7 +11,7 @@ ik heb een blokje geplaats die kan springen als je op de spatie knop drukt
 
 
 
-# tutorial1
+# tutorial1 en 2
 
 ## gemaakt door Kevin Mei
 
