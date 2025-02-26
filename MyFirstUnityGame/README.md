@@ -21,3 +21,14 @@ ik heb animatie toegevoegd voor de karakter hij springt en kan lopen en heeft an
 
 
 ![voorbeeld gifje](../MyFirstUnityGame/image/sigma2.gif)
+
+
+
+# tutorial3
+
+## gemaakt door Kevin Mei
+
+ik heb parkour gemaakt voor de karakter
+
+
+![voorbeeld gifje](../MyFirstUnityGame/image/sigma3.gif)
