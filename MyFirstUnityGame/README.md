@@ -32,3 +32,14 @@ ik heb parkour gemaakt voor de karakter
 
 
 ![voorbeeld gifje](../MyFirstUnityGame/image/sigma3.gif)
+
+
+# tutorial4
+
+## gemaakt door Kevin Mei
+
+op pakbare gameobjecten
+
+
+![voorbeeld gifje](../MyFirstUnityGame/image/sigma4.gif)
+
