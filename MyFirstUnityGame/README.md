@@ -43,3 +43,4 @@ op pakbare gameobjecten
 
 ![voorbeeld gifje](../MyFirstUnityGame/image/sigma4.gif)
 
+link naar scripts https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/tree/main/Assets/Scripts
