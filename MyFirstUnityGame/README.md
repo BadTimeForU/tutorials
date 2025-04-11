@@ -60,3 +60,18 @@ link naar scripts https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/blob/main
 https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/blob/main/Assets/Scripts/Shoot.cs
 
 https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/blob/main/Assets/Scripts/MoveBullet.cs
+
+# tutorial6
+
+## gemaakt door Kevin Mei
+
+enimies and hp systeem
+
+
+![voorbeeld gifje](../MyFirstUnityGame/image/sigma6.gif)
+
+link naar scripts https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/blob/main/Assets/Scripts/KillOnHit.cs
+
+https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/blob/main/Assets/Scripts/Shoot.cs
+
+https://github.com/BadTimeForU/GD-HelloW-A1-KevinMei/blob/main/Assets/Scripts/MoveBullet.cs
